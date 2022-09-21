@@ -1,6 +1,6 @@
 # Biz-viz
 Data Analytics Hackathon
-Contributers:-
+Contributers:-\
 Falak Single\
 Aditya Takkar\
 Chandan Rakholia\
