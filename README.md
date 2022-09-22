@@ -2,7 +2,7 @@
 Team Name:- Segmentation_Fault\
 Data Analytics Hackathon\
 Contributers:-\
-Falak Single\
+Falak Singla\
 Aditya Takkar\
 Chandan Rakholia\
 Aarav Jain
